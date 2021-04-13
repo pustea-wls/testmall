@@ -23,7 +23,17 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 dev开发
+<<<<<<< HEAD
 再次切换dev分支
 
 
 tag提交
+=======
+再次切换dev分支11111
+2222222
+333333
+
+
+
+dev11
+>>>>>>> dev
