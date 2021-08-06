@@ -22,3 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 我是一个合并分支
+
+1.增加开发任务
